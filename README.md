@@ -26,7 +26,7 @@ The below reference links will be handy when you start working on developing new
 - [Stackedit](https://stackedit.io/)
 
 ## Contributors
-I am Mohan pratapa,a new member of Fall 2019 working on my masters in Applied Computer science.Below is one of my favourite picture taken during my drive to Goa.
+I am Mohan pratapa,a new member of Fall 2019 working on my masters in Applied Computer science.Below is one of my favourite pictures taken during my drive to Goa.
 
 ![Mohan](Mohan.jpg)
 
