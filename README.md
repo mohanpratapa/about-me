@@ -30,8 +30,7 @@ Markdown and HTML are the basic languages which help us to design a webpage.
 
 
 ## Contributors
-
-I am Mohan pratapa a new member of Fall 2019 working on my masters in Applied Computer science.
+I am Mohan pratapa a new member of Fall 2019 working on my masters in Applied Computer science.Below is one of my favourite picture taken during my drive to Goa.
 ![Mohan](Mohan.jpg)
 
 
