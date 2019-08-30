@@ -22,8 +22,8 @@ In order to publish a Webpage we need a browser,GitHub, Visual Studo code, Torto
 
 Markdown and HTML are the basic languages which help us to design a webpage.
 
-*
-*
+- [HTML](https://www.codecademy.com/learn/learn-html)
+- [Markdown](https://www.markdownguide.org/getting-started/)
 
 ## Recommended resources
 
