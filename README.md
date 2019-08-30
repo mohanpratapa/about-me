@@ -19,7 +19,7 @@ Markdown and HTML are the basic languages which help us to design a webpage.
 - [HTML](https://www.codecademy.com/learn/learn-html)
 - [Markdown](https://www.markdownguide.org/getting-started/)
 
-## Recommended resources
+## Recommended Resources
 The below reference links will be handy when you start working on developing new Webapplications.
 - [Udemy](https://www.udemy.com/)
 - [Pluralsight](https://www.pluralsight.com/)
