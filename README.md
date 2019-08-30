@@ -1,2 +1,7 @@
 # about-me
-This repository has the information regarding GitHub tools and resources
+
+## Repository Links
+. [source repository](https://github.com/mohanpratapa/about-me)
+. [hosted page](https://github.com/mohanpratapa/about-me)
+
+
