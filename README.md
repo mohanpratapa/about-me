@@ -14,11 +14,8 @@ This repository has the required information regarding the recommended tools and
 In order to publish a Webpage we need a browser,GitHub, Visual Studo code, Tortoise Git.I feel Github is a useful tool where we can store our code in a repository.Visual Studio code can be useful to write a code and make changes easily.
 
 * [Visual Studio Code](https://code.visualstudio.com/docs)
-
 *[Google Chrome](https://www.google.com/chrome/)
-
 *[GitHub](https://github.com/)
-
 *[Tortoise Git](https://tortoisegit.org/)
 
 ## Recommended Languages
