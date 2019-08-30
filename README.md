@@ -1,9 +1,9 @@
 # about-me
 
 ## Repository Links
-. [source repository](https://github.com/mohanpratapa/about-me)
+* [source repository](https://github.com/mohanpratapa/about-me)
 
-. [hosted page](https://mohanpratapa.github.io/about-me/)
+* [hosted page](https://mohanpratapa.github.io/about-me/)
 
 ## About
 
@@ -11,14 +11,22 @@ This repository has the required information regarding the recommended tools and
 
 ## Recommended Tools
 
-This..............
+In order to publish a Webpage we need a browser,GitHub, Visual Studo code, Tortoise Git.I feel Github is a useful tool where we can store our code in a repository.Visual Studio code can be useful to write a code and make changes easily.
 
+* [Visual Studio Code](https://code.visualstudio.com/docs)
+*[Google Chrome](https://www.google.com/chrome/)
 
+## Recommended Languages
 
+Markdown and HTML are the basic languages which help us to design a webpage.
 
-
+*
+*
 
 ## Recommended resources
+
+
+
 
 
 
